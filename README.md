@@ -10,6 +10,14 @@
 - 📫 How to reach me: **hassan.alacheck@gmail.com**
 - ⚡ Fun fact: ***Follow me on  my social media account***
 
+
+<h3 align="left">Follow me:</h3>
+<p align="left">
+<a href="https://twitter.com/HassanAlachek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hassanalachek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
+<a href="https://t.me/assassinroot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
