@@ -31,3 +31,16 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-Al-Achek&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Hassan-Al-Achek" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Al-Achek&show_icons=true&theme=dark&hide_border=true" alt="Hassan-Al-Achek" /></p>
+
+
+<details>
+  <summary>:zap: Recent Project </summary>
+  
+<!--START_SECTION:activity-->
+1. Leaker [#Leaker](https://github.com/Hassan-Al-Achek/Leaker.git)
+2. Method [#Method](https://github.com/Hassan-Al-Achek/Method.git)
+3. Linux Privilege Escalation [#Privesc](https://github.com/Hassan-Al-Achek/LinuxPrivilegeEscalation.git)
+<!--END_SECTION:activity-->
+
+</details>
+
