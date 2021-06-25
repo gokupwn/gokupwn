@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Developing my skills**
 - 🌱 I’m currently learning **Cyber Security In General**
 - 💬 Ask me about **Ask me anything no problem ;)**
-- 📫 How to reach me: **hassan.alacheck@gmail.com**
+- 📫 How to reach me: 
 - ⚡ Fun fact: ***Follow me on  my social media account***
 
 
