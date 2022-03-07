@@ -12,9 +12,8 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
-<a href="https://twitter.com/HassanAlachek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hassanalachek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
-<a href="https://t.me/assassinroot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
+<a href="https://twitter.com/0xh41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/1nject3d/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Hassan-Al-Achek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
