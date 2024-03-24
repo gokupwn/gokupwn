@@ -29,8 +29,8 @@
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-Al-Achek&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="Hassan-Al-Achek" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Al-Achek&show_icons=true&theme=radical&hide_border=true" alt="Hassan-Al-Achek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-Al-Achek&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Hassan-Al-Achek" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Al-Achek&show_icons=true&theme=dracula&hide_border=true" alt="Hassan-Al-Achek" /></p>
 
 
 <details>
