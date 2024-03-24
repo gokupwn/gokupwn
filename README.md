@@ -1,7 +1,7 @@
 <h1 align="center">0xh41</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassan-Al-Achek&label=Profile%20views&color=1c1c1c&style=flat" alt="Hassan-Al-Achek" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hassan-Al-Achek&theme=onedark&row=1&column=5" alt="Hassan-Al-Achek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hassan-Al-Achek&theme=dracula&row=1&column=5" alt="Hassan-Al-Achek" /></a> </p>
 
 - 🔭 I’m currently working on **Network Attack Framework**
 - 🌱 I’m currently learning **Cyber Security In General**
